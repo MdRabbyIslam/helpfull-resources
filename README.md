@@ -12,5 +12,7 @@ This is actually gather of some redme files where I will gather the helpfull res
 </details>
 <details>
 <summary>Sql</summary>
-
+<ol>
+  <li>Sql Injection</li>
+</ol>
 </details>
