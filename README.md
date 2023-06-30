@@ -4,9 +4,13 @@ This is actually gather of some redme files where I will gather the helpfull res
 # Categories
 <details>
 <summary>PHP</summary>
-- Sql Injection
+
 </details>
 <details>
 <summary>Laravel</summary>
+
+</details>
+<details>
+<summary>Sql</summary>
 
 </details>
