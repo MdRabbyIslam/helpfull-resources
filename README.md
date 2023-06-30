@@ -1,9 +1,7 @@
 # Helpfull-Resources :gift_heart:
 This is actually gather of some redme files where I will gather the helpfull resources from the internet and my tips and tricks. Thanks
 
-<hr />
-
-# Categories
+# :arrow_down_small: Categories
 <details>
 <summary>PHP</summary>
 
